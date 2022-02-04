@@ -60,7 +60,7 @@
     "gulp-rename": "^1.2.2",
     "gulp-replace": "^0.5.4",
     "gulp-sourcemaps": "^2.2.0",
-    "lerna": "3.13.2",
+    "lerna": "3.18.0",
     "lerna-changelog": "~0.8.2",
     "lodash": "^4.16.4",
     "memory-stream": "0.0.3",
