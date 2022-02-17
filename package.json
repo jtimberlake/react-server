@@ -41,7 +41,7 @@
     "david": "^11.0.0",
     "del": "^2.2.1",
     "del-cli": "^0.2.0",
-    "docco": "^0.7.0",
+    "docco": "^0.8.0",
     "eslint": "^4.0.0",
     "eslint-plugin-react": "^7.12.4",
     "express": "^4.14.0",
