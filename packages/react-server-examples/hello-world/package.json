@@ -19,6 +19,6 @@
     "react-dom": "^15.4.1",
     "react-server": "^0.6.3",
     "react-server-cli": "^0.6.3",
-    "superagent": "1.8.4"
+    "superagent": "2.0.0"
   }
 }
