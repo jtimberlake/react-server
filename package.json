@@ -80,7 +80,7 @@
     "superagent": "1.8.4",
     "uglify-js": "^2.7.5",
     "yeoman-assert": "^2.0.0",
-    "yeoman-test": "^1.0.0",
+    "yeoman-test": "^2.0.0",
     "zombie": "^5.0.5"
   },
   "engines": {
