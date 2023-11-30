@@ -26,7 +26,7 @@
   "homepage": "https://github.com/redfin/react-server#readme",
   "devDependencies": {
     "@babel/cli": "^7.0.0",
-    "@babel/core": "^7.4.3",
+    "@babel/core": "^7.4.4",
     "babel-eslint": "^9.0.0",
     "babel-plugin-react-server": "^1.0.0-alpha.2",
     "babel-preset-react-server": "^1.0.0-alpha.2",
