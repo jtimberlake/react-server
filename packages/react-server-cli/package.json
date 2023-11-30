@@ -34,7 +34,7 @@
     "json-loader": "^0.5.7",
     "less": "^2.7.1",
     "less-loader": "^2.2.3",
-    "lodash": "^4.16.4",
+    "lodash": "^4.17.21",
     "look-up": "^0.8.3",
     "mkdirp": "^0.5.1",
     "node-libs-browser": "^2.0.0",

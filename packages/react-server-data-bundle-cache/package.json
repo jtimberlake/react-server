@@ -13,7 +13,7 @@
     "prepublish": "npm run build"
   },
   "dependencies": {
-    "lodash": "^4.16.4",
+    "lodash": "^4.17.21",
     "stratocacher": "0.0.12",
     "stratocacher-layer-lru": "0.0.12"
   },
