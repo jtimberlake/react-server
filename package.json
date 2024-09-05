@@ -37,7 +37,7 @@
     "babel-eslint": "^9.0.0",
     "babel-plugin-react-require": "^3.0.0",
     "benchmark": "^2.1.4",
-    "cheerio": "^0.22.0",
+    "cheerio": "^1.0.0",
     "david": "^11.0.0",
     "del": "^2.2.1",
     "del-cli": "^0.2.0",
