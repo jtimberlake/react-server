@@ -15,7 +15,7 @@
     "google-map-react": "^0.22.0",
     "lodash": "^4.17.2",
     "q": "1.4.1",
-    "react": "^15.4.1",
+    "react": "^16.5.0",
     "react-dom": "^15.4.1",
     "react-redux": "^4.4.6",
     "react-server": "^0.6.3",
